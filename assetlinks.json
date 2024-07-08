@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.das360.okretailer",
+      "sha256_cert_fingerprints": ["2E:57:E6:D0:2A:E4:38:7D:03:6A:53:6F:69:DC:08:74:08:21:72:66:CC:BB:45:2D:79:80:54:AE:6D:07:EB:1C"]
+    }
+  }
+]
